@@ -1,0 +1,58 @@
+{
+  "Location": [
+    {
+      "TXT": "TSJ",
+      "VAL": "TSJ"
+    },
+    {
+      "TXT": "TSK",
+      "VAL": "TSK"
+    },
+    {
+      "TXT": "TSM",
+      "VAL": "TSM"
+    }
+  ],
+  "Stock": [
+    {
+      "id": 1,
+      "Location": "TSJ",
+      "Priority": "Low",
+      "Colour": "Red",
+      "Dayfrom": "0",
+      "Dayto": "7",
+      "Type": "Domestic",
+      "flag": "Y"
+    },
+    {
+      "id": 2,
+      "Location": "TSJ",
+      "Priority": "Low",
+      "Colour": "Yellow",
+      "Dayfrom": "1",
+      "Dayto": "50",
+      "Type": "Domestic",
+      "flag": "Y"
+    },
+    {
+      "id": 3,
+      "Location": "",
+      "Priority": "Modrate",
+      "Colour": "Blue",
+      "Dayfrom": "2",
+      "Dayto": "9",
+      "Type": "Mix",
+      "flag": "Y"
+    },
+    {
+      "id": 4,
+      "Location": "",
+      "Priority": "High",
+      "Colour": "Blue",
+      "Dayfrom": "3",
+      "Dayto": "5",
+      "Type": "Import",
+      "flag": "Y"
+    }
+  ]
+}
